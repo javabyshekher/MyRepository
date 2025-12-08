@@ -1,6 +1,4 @@
 spring:
-  main:
-    banner-mode: 'off'
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
